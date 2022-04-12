@@ -16,7 +16,7 @@ const let_Me_Introduce_Myself = {
                         life: "Average Geek Human"
                         student: "System Engineering at UPTC",
                       },
- Challenge: "I am doing the #100DaysOfCode challenge focused on Python and Geting in pentesting"
+ Challenge: "I am doing the #100DaysOfCode challenge focused on Python and getting into Pentesting 🤖"
 }
 ```
 ### Here you have extra info. (It ain't much but it's honest work) 🤓
