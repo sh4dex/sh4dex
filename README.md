@@ -19,3 +19,8 @@ const let_Me_Introduce_Myself = {
  Challenge: "I am doing the #100DaysOfCode challenge focused on Python and Geting in pentesting"
 }
 ```
+### Here you have extra info. (It ain't much but it's honest work) 🤓
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasSorza&show_icons=true&theme=radical)](https://github.com/ThomasSorza/github-readme-stats)
+
+### My top Languages 🦅
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSorza&layout=compact&theme=radical)](https://github.com/ThomasSorza/github-readme-stats)
