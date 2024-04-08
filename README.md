@@ -18,7 +18,7 @@ const let_Me_Introduce_Myself = {
 }
 ```
 ### Here you have extra info. (It ain't much but it's honest work) 🤓
-[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasSorza&show_icons=true&theme=radical)](https://github.com/ThomasSorza/github-readme-stats)
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4dex&show_icons=true&theme=radical)](https://github.com/ThomasSorza/github-readme-stats)
 
 ### My top Languages 🦅
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSorza&layout=compact&theme=radical)](https://github.com/ThomasSorza/github-readme-stats)
