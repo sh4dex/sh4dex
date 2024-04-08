@@ -5,8 +5,6 @@
 - 🧠 Learning something diferent every single day.😼
 - 👽 2022 goal: I want to get into ethical hacking.
 - ⚡ Fun fact: Gamer and Cyclist. 
-- 📫 How to reach me:
-   <a href="https://www.linkedin.com/in/thomassorza/"><li>LinkedIn</li></a>
 ```javascript
 const let_Me_Introduce_Myself = {
   Pronouns: "he" | "him",
