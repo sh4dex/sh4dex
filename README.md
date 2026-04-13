@@ -1,24 +1,21 @@
- ## Hi there 👋 I'm Thomas [AKA Shadex]
+Hey there! Suh dude 👋
 
-### I'm a Student, Developer and a Crazy Dreamer.👻
-- 🌱 I’m currently studying at university.
-- 🧠 Learning something diferent every single day.😼
-- 👽 2022 goal: I want to get into ethical hacking.
-- ⚡ Fun fact: Gamer and Cyclist. 
-```javascript
-const let_Me_Introduce_Myself = {
-  Pronouns: "he" | "him",
-  Code: [Javascript, HTML, CSS, Python, Java],
-  Tools: [Bash, Linux-Servers, Django, VScode, Boostrap, Sass, Git, SQL],
-  RightNow: {
-                        life: "Average Geek Human"
-                        student: "System Engineering at UPTC",
-                      },
- Challenge: "I am doing the #100DaysOfCode challenge focused on Python and getting into Pentesting 🤖"
-}
-```
-### Here you have extra info. (It ain't much but it's honest work) 🤓
-[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4dex&show_icons=true&theme=radical)](https://github.com/ThomasSorza/github-readme-stats)
+I'm **Thomas**, a systems & computation engineer based in Colombia.
 
-### My top Languages 🦅
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dex&layout=compact&theme=radical)](https://github.com/ThomasSorza/github-readme-stats)
+I audit smart contracts, while using linux every day, I break things to understand how they work.
+
+If there's something I do not understand maybe I spend most of the time till I can explain it for others on YouTube.
+
+**Skills & Tools**
+My main stack is Python, Solidity, Bash and Rust. 
+🐧 My favorite tools are Linux, Docker, and a good terminal.
+
+I'm currently focused on smart contract security research and ethical hacking as hobbie mainly to understand things under the hood (I like wifi hacking).
+
+Fun Facts:
+I have a dog & I enjoy listening rap
+
+Hobbies:
+🏔️ I climb mountains on weekends, Cycling is my reset button and also casual gamer
+
+Check out my pinned projects below 👇
