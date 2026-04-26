@@ -1,6 +1,6 @@
 Suh dude! 👋
 
-## I'm **Thomas**, a Systems & Computation Engineer based in Colombia.
+## I'm **Thomas**, a Systems & Computation Engineer & Blockchain Developer.
 
 I audit smart contracts while using Linux every day.
 I break things to understand how they work.
